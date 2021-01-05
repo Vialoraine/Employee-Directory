@@ -53,4 +53,4 @@
   Have a question? Email me directly at vialoraine.gg@gmail.com.
   Check out my other projects at [Vialoraine](https://github.com/vialoraine).
   ## Screenshots
-  <img src="assets/User-Directory.gif">
+  <img src="https://github.com/Vialoraine/Employee-Directory/blob/main/assets/img/User-Directory.gif?raw=true">
