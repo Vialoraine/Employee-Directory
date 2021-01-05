@@ -1,0 +1,50 @@
+{
+  "name": "user-directory",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://vialoraine.github.io/myapp",
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "bootstrap": "^4.5.2",
+    "gh-pages": "^3.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.3"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)\r   ## Description\r   In this repository, I created an employee directory with React. As a user, you are able to view an entire employee directory at once so that you have quick access to their information. [Check out the deployed project over on Heroku](https://hw-note-taker.herokuapp.com/).\r   ## Table of Contents\r   * [Usage](#usage)\r   * [License](#license)\r   * [Contact](#contact)\r   * [Screenshots](#screenshots)\r   ## Installation\r   ```npm install``` is used to install dependencies. is used to install dependencies.\r   ## Usage\r   Node.js must be installed onto your system prior to usage. Repo MUST include package.json with required dependencies.\r   ## License\r   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)\r   (https://opensource.org/licenses/MIT)\r   ## Contact\r   Have a question? Email me directly at vialoraine.gg@gmail.com.\r   Check out my other projects at [Vialoraine](https://github.com/vialoraine).\r   ## Screenshots\r   <img src=\"assets/Note-Taker.gif\">",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vialoraine/Employee-Directory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vialoraine/Employee-Directory/issues"
+  }
+}

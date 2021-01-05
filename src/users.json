@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "firstName": "Phil",
+        "lastName": "Bigglesby",
+        "email": "BiggPhil78@hotmail.com",
+        "phone": "555-878-9922"
+    },
+    {
+        "id": 2,
+        "firstName": "Flurd",
+        "lastName": "Durgleson",
+        "email": "FlurdDurd@aol.com",
+        "phone": "555-252-1197"
+    },
+    {
+        "id": 3,
+        "firstName": "Spunk",
+        "lastName": "Junction",
+        "email": "WhatsYourFunction@houserock.com",
+        "phone": "555-437-6842"
+    },
+    {
+        "id": 4,
+        "firstName": "Wanda",
+        "lastName": "Monica",
+        "email": "NahMonica@yahoo.com",
+        "phone": "555-351-9681"
+    },
+    {
+        "id": 5,
+        "firstName": "Carla",
+        "lastName": "Smarles",
+        "email": "MetsFan039@gmail.com",
+        "phone": "555-851-3515"
+    },
+    {
+        "id": 6,
+        "firstName": "Wayne",
+        "lastName": "Mason",
+        "email": "BruceWayneMason@drillmail.com",
+        "phone": "555-194-7526"
+    },
+    {
+        "id": 7,
+        "firstName": "Dave",
+        "lastName": "Waverman",
+        "email": "easy_rider85@crunkfake.com",
+        "phone": "555-327-1678"
+    },
+    {
+        "id": 8,
+        "firstName": "Wendy",
+        "lastName": "Crix",
+        "email": "quailster@doug.com",
+        "phone": "555-749-5291"
+    },
+    {
+        "id": 9,
+        "firstName": "Maxine",
+        "lastName": "Roxanne",
+        "email": "MaxRoxInAnne@wtf.com",
+        "phone": "555-253-1867"
+    },
+    {
+        "id": 10,
+        "firstName": "Javaris Jamar",
+        "lastName": "Javarison-Lamar",
+        "email": "PeeleAndKey@umt.edu",
+        "phone": "555-071-5309"
+    }
+]
